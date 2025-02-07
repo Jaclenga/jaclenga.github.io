@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jack Lenga's Portfolio # the main title
+title: Jack Lenga # the main title
 
 tagline: Data, Software, and Security # it will display as the subtitle
 
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: <meta name="google-site-verification" content="FIw2faMIGm4FAdd-sc9Ew4McdzHksKjFyQHDcvyWXl4" />
+    id: FIw2faMIGm4FAdd-sc9Ew4McdzHksKjFyQHDcvyWXl4
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
