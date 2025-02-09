@@ -3,7 +3,7 @@ layout: post
 title: "Tidy Tuesday: 2025-01-04, Simpsons Episodes Dataset EDA"
 categories: [Portfolio, TidyTuesday]
 tags: [Data, EDA, TidyTuesday]
-date: 2025-02-07 14:01:30 -0500
+date: 2025-02-08 14:01:30 -0500
 ---
 
 TidyTuesday's 2025 Simpsons Dataset comes in 4 sections:
