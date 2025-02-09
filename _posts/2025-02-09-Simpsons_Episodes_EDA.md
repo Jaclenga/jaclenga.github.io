@@ -16,7 +16,7 @@ TidyTuesday's 2025 Simpsons Dataset comes in 4 sections:
 
 [I recently constructed a graph on section #2, simpsons_episodes.csv](https://jaclenga.github.io/posts/Simpsons_Decline/). In this article, I will show you the process I used to explore that set of data.
 
-First, I took a peek at the data dictionary (TidyTuesday, 2025):
+First, I took a peek at the data dictionary (Data Science Learning Community, 2025):
 
 | variable               | class     | description                                         |
 |:-----------------------|:----------|:---------------------------------------------------|
