@@ -16,7 +16,7 @@ TidyTuesday's 2025 Simpsons Dataset comes in 4 sections:
 
 [I recently constructed a graph on section #2, simpsons_episodes.csv](https://jaclenga.github.io/posts/Simpsons_Decline/). In this article, I will show you the process I used to explore that set of data.
 
-First, I take a peek at the data dictionary:<sup>[1](#myfootnote1)</sup>
+First, I took a peek at the data dictionary (TidyTuesday, 2025):
 
 | variable               | class     | description                                         |
 |:-----------------------|:----------|:---------------------------------------------------|
@@ -40,7 +40,7 @@ Next, I use R-language functions to examine my data a little closer. My favorite
 
 ![Simpsons Skim](/assets/img/Simpsons_Skim_Episodes.png){: .normal}
 
-I then come up with a few research questions to help guide my exploration. Here are the ones I came up with for my previous visualization:
+I then came up with a few research questions to help guide my exploration. Here are the ones I got for my previous visualization:
 
 1. How does the distribution of imdb_rating vary with the other variables of the dataset?
 2. What are the most relevant groupings for episode data?
@@ -70,4 +70,4 @@ As another future direction, I'd like to look deeper into the *number_in_series*
 
 **References**
 
-<a name="TidyTuesday">1:</a> Data Science Learning Community (2024). Tidy Tuesday: A weekly social data project. https://tidytues.day.
+1. Data Science Learning Community (2025). Tidy Tuesday: A weekly social data project. https://tidytues.day.
