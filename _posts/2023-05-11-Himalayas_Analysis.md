@@ -2,6 +2,7 @@
 layout: post
 title: "Tidy Tuesday: 2025-01-21"
 categories: [Portfolio, TidyTuesday, Visualizations]
+tags: [Data, Visualization, TidyTuesday]
 date: 2025-01-02 14:01:30 -0500
 ---
 

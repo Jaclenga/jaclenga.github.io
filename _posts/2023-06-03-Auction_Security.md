@@ -2,6 +2,7 @@
 layout: post
 title: "Electronic Auction Security"
 categories: [Portfolio, Essays]
+tags: [Essay, Security]
 date: 2023-06-02 14:01:30 -0500
 ---
 Here's a short article I wrote for job application a while back. Hope you enjoy!
