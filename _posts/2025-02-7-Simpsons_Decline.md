@@ -6,30 +6,37 @@ tags: [Data, Visualization, TidyTuesday]
 date: 2025-02-07 14:01:30 -0500
 ---
 
-Another entry for [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/main). I'm a little late to the party this time. School has been rough.
+Another entry for [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/main).
+
+ I'm a little late to the party this time. School has been rough.
 
 ![Simpsons Visualization](/assets/img/simpsons_decline.png){: .normal }
 
 As you can see, as time passed by, *The Simpsons* got worse and worse throughout the 2010s (according to IMDB data). 
 
-This is absolutely not my best work. I do, however, plan to explore this dataset a lot more. You'll see a lot more Simpsons content from this point forward. 
+You'll see a lot more Simpsons content from this point forward. 
 
 Here's the code I used to produce the graph:
 
 ```
+#import libraries
 library(tidyverse)
 library(tidytuesdayR)
 library(extrafont)
 
+#input fonts
 #font_import()
 #loadfonts(device = "win")
 
+#import data
 tuesdata <- tidytuesdayR::tt_load(2025, week = 5)
 simpsons_episodes <- tuesdata$simpsons_episodes
 
-#mean = 6.787838
+
+#Calculate the mean (= 6.787838)
 #mean(simpsons_episodes$imdb_rating, na.rm = TRUE) 
 
+#filter data
 simpsons_episodes <- simpsons_episodes |>
   mutate(
     Rating = ifelse(imdb_rating > 6.787838, "Above (or Equal To) Average", "Below Average"),
@@ -37,6 +44,7 @@ simpsons_episodes <- simpsons_episodes |>
   na.omit() |>
   filter(season < 28)
 
+#generate visualization
 simpsons_episodes |>
   ggplot(aes(x = season, fill = Rating)) +
   geom_bar(position = "fill") +
