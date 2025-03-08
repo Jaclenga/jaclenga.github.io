@@ -11,4 +11,4 @@ date: 2023-06-2 20:23:30 -0500
 
 Peep used to be my favorite TV show as a kid. I drew this because just thinking about the show makes me happy.
 
-*Character Design by Kaj Pinal (RIP)*
+*Character Design by Kaj Pindal (RIP)*
