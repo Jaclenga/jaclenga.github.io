@@ -5,7 +5,7 @@ categories: [Portfolio, Essays]
 tags: [Essay, Security]
 date: 2023-06-02 14:01:30 -0500
 ---
-Here's a short article I wrote for job application a while back. Hope you enjoy!
+Here's a short article I wrote for a job application a while back. Hope you enjoy!
 
 ## Cybersecurity Practices for Electronic Auctions
 
