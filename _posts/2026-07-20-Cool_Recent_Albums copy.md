@@ -10,7 +10,7 @@ I got kinda bored again so I just wanted to list a bunch of songs I've been list
 
 - Rain -- The Cult
 - Fear, Sex -- Magdalena Bay
- - my favorite song of the album
+  - my favorite song of the album
 - The Ballad of Matt & Mica -- Magdalena Bay
 - Sweet Leaf -- Black Sabbath
 - Stripped -- Depeche Mode
@@ -18,7 +18,7 @@ I got kinda bored again so I just wanted to list a bunch of songs I've been list
 - Everything Counts -- Depeche Mode
 - World in My Eyes -- Depeche Mode
 - Halo -- Depeche Mode
- - A lot of depeche mode
+  - A lot of depeche mode
 - Fifty-fifty Clown -- Cocteau Twins
 - Heaven or Las Vegas -- Cocteau Twins
 - Miky -- iiso
