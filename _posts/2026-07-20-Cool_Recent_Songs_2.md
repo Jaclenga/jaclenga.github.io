@@ -6,7 +6,7 @@ tags: [Life]
 date: 2026-08-05 14:01:30 -0500
 ---
 
-I listened to a lot of different stuff this week
+I listened to a lot of different stuff
 
 - *Cities in Dust* - Siouxsie and the Banshees
   - For whatever reason I probably listened to this one more than anything else
